@@ -59,8 +59,8 @@ Request Body (Example):
 json
 Copy code
 {
-  "name": "John Doe",
-  "email": "johndoe@example.com",
+  "name": "Dharamveer Singh",
+  "email": "dharam@gmail.com",
   "phone": "1234567890"
 }
 Response:
