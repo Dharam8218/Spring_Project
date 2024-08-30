@@ -68,8 +68,8 @@ json
 Copy code
 {
   "id": 1,
-  "name": "John Doe",
-  "email": "johndoe@example.com",
+  "name": "Dharamveer Singh",
+  "email": "dharam@gmail.com.com",
   "phone": "1234567890",
   "createdAt": "2024-08-11T12:00:00"
 }
@@ -83,8 +83,8 @@ Copy code
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "email": "johndoe@example.com",
+    "name": "Dharamveer Singh",
+    "email": "dharam@gmail.com",
     "phone": "1234567890",
     "createdAt": "2024-08-11T12:00:00"
   },
@@ -99,8 +99,8 @@ json
 Copy code
 {
   "id": 1,
-  "name": "John Doe Updated",
-  "email": "johndoe_updated@example.com",
+  "name": "Dharam",
+  "email": "dharamveersingh@gmail.com",
   "phone": "0987654321"
 }
 Response:
@@ -108,8 +108,8 @@ json
 Copy code
 {
   "id": 1,
-  "name": "John Doe Updated",
-  "email": "johndoe_updated@example.com",
+  "name": "Dharam",
+  "email": "dharamveersingh@gmail.com",
   "phone": "0987654321",
   "updatedAt": "2024-08-11T13:00:00"
 }
